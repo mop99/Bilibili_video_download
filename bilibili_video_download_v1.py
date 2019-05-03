@@ -163,7 +163,7 @@ def combine_video(video_list, title):
 
 
 if __name__ == '__main__':
-    # 用户输入av号或者视频链接地址
+    # av45028980
     print('*' * 30 + 'B站视频下载小助手' + '*' * 30)
     start = input('请输入您要下载的B站av号或者视频链接地址:')
     if start.isdigit() == True:  # 如果输入的是av号
